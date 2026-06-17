@@ -1,0 +1,6 @@
+groq
+openai
+anthropic
+requests
+streamlit
+python-dotenv
